@@ -23,13 +23,13 @@ Welcome to our Django-based chat application! This application allows users to r
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/ChatApp.git
+    git clone [repository URL]
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd django-chat-app
+cd [repository name]
 ```
 
 3. Create a virtual environment:
